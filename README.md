@@ -2,16 +2,16 @@
 
 ## 目录
 
-- [Getting Started](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/1.%20Getting%20Started/0.%20Getting%20Started.md)
-  - [Installation](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/1.%20Getting%20Started/1.%20Installation.md)
-  - [Project Structure](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/1.%20Getting%20Started/2.%20Project%20Structure.md)
-- [Building Your Application](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/0.%20Building%20Your%20Application.md)
-  - [Routing](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/0.%20Routing.md)
-    - [Defining Routes](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/1.%20Defining%20Routes.md)
-    - [Pages and Layouts](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/2.%20Pages%20and%20Layouts.md)
-    - [Linking and Navigating](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/3.%20Linking%20and%20Navigating.md)
-    - [Route Groups](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/4.%20Route%20Groups.md)
-    - [Dynamic Routes](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/5.%20Dynamic%20Routes.md)
+- [Getting Started](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/1.%20Getting%20Started/0.%20Getting%20Started.md) √
+  - [Installation](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/1.%20Getting%20Started/1.%20Installation.md) √
+  - [Project Structure](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/1.%20Getting%20Started/2.%20Project%20Structure.md) √
+- [Building Your Application](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/0.%20Building%20Your%20Application.md) √
+  - [Routing](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/0.%20Routing.md) √
+    - [Defining Routes](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/1.%20Defining%20Routes.md) √
+    - [Pages and Layouts](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/2.%20Pages%20and%20Layouts.md) √
+    - [Linking and Navigating](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/3.%20Linking%20and%20Navigating.md) √
+    - [Route Groups](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/4.%20Route%20Groups.md) √
+    - [Dynamic Routes](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/5.%20Dynamic%20Routes.md) √
     - [Loading UI and Streaming](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/6.%20Loading%20UI%20and%20Streaming.md)
     - [Error Handling](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/7.%20Error%20Handling.md)
     - [Parallel Routes]()
@@ -55,7 +55,7 @@
     - [src Directory]()
     - [Draft Mode]()
     - [Content Security Policy]()
-  - [Deploying]()
+  - [Deploying](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/8.%20Deploying/0.%20Deploying.md) √
     - [Static Exports]()
   - [Upgrading]()
     - [Codemods]()

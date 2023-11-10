@@ -13,8 +13,8 @@
     - [Route Groups](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/4.%20Route%20Groups.md) √
     - [Dynamic Routes](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/5.%20Dynamic%20Routes.md) √
     - [Loading UI and Streaming](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/6.%20Loading%20UI%20and%20Streaming.md) √
-    - [Error Handling](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/7.%20Error%20Handling.md)
-    - [Parallel Routes]()
+    - [Error Handling](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/7.%20Error%20Handling.md) √
+    - [Parallel Routes](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/8.%20Parallel%20Routes.md)
     - [Intercepting Routes]()
     - [Route Handlers]()
     - [Middleware]()

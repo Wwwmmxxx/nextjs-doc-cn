@@ -19,7 +19,7 @@
     - [Route Handlers](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/10.%20Route%20Handlers.md) √
     - [Middleware]()
     - [Project Organization]()
-    - [Internationalization]()
+    - [Internationalization](https://github.com/Wwwmmxxx/nextjs13-document-cn/blob/master/2.%20Building%20Your%20Application/1.%20Routing/13.%20Internationalization.md) √
   - [Data Fetching]()
     - [Fetching, Caching and Revalidating]()
     - [Data Fetching Patterns]()
